@@ -6,7 +6,7 @@ This program basically analyze historical energy production (from solar and wind
 
 **⚠️ IMPORTANT:** I (Aleynaonrr) developed the **Energy Database Module** for this project. This includes:
 - `energy_data.db` - SQLite database design and implementation
-- `test_energy_database.py` - Complete database testing and validation
+- `energy_database.py` - Complete database testing and validation
 - Database schema, tables, and query optimization
 - Data validation and integrity checks
 
