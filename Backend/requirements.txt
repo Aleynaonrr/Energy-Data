@@ -1,0 +1,7 @@
+playwright
+scrapy
+python-dotenv
+pandas
+numpy
+fastapi
+uvicorn
