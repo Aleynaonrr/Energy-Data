@@ -16,10 +16,10 @@ This program basically analyze historical energy production (from solar and wind
 
 This is a **collaborative project** developed by:
 - **Aleynaonrr** - Energy Database Development ⭐
-- **zeyneptuana22** - Project Contributor
-- **zehraa2005** - Project Contributor
-- **enessaduman** - Project Contributor
-- **busracode** - Project Contributor
+- **zeyneptuana22** - Project Contributor (https://github.com/zeyneptuana22)
+- **zehraa2005** - Project Contributor (https://github.com/zehraa2005)
+- **enessaduman** - Project Contributor (https://github.com/enessaduman)
+- **busracode** - Project Contributor (https://github.com/busracode)
 
 ---
 
